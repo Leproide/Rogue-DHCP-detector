@@ -26,3 +26,16 @@ At the top of the script you can configure:
 - LOG file path
 - tshark path
 - Interface number (you can find it with tshark.exe -D)
+
+---
+
+## Testing
+You can test the script with the following utilities:
+- [Microsoft Rogue Check Tool](https://tachytelic.net/2019/05/detect-rogue-dhcp-server/) (sends a DHCP request)  
+- [Tftpd64](https://github.com/PJO2/tftpd64/releases/) (rogue DHCP server)
+
+---
+
+## Screenshot
+
+<img width="1919" height="1080" alt="immagine" src="https://github.com/user-attachments/assets/67d726af-753f-4422-9de8-7e724127ebd3" />
