@@ -22,7 +22,7 @@ It continuously monitors DHCP **OFFER** and **ACK** packets and alerts when the 
 
 ## Configuration
 At the top of the script you can configure:
-- Authorized DHCP servers
+- Authorized DHCP server
 - LOG file path
 - tshark path
 - Interface number (you can find it with tshark.exe -D)
